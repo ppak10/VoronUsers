@@ -20,8 +20,13 @@ cad:
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
 images:
-- Images/photo.jpg
-- Images/CAD.png
+- Images/250_300_350_Render.png
+- Images/250.JPEG
+- Images/300.JPEG
+- Images/350_Installed.JPEG
+- Images/350.JPEG
+- Images/All_Sizes_2.JPEG
+- Images/All_Sizes.JPEG
 # List all STL files
 stl:
 - STL/rear_center_skirt_250.STL
